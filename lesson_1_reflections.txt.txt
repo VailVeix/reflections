@@ -1,0 +1,26 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It shows you exactly what lines are swapped, so you can quickly glance through and see a spelling error instead of going line by line by hand.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+If you have to go back to a previous version from a long time ago, it would make it easy to update. Also if you do a lot of coding, and can't figure out why an old function works you can compare them.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The biggest pro is always having working code because I can decide when to commit. Con wise, it's really annoying and some of the changes seem to be way too small for me to want to do it EVERY time. Thinking about CSS and design it seems like it would be a pain.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+With git you frequently use tons of files so you'd want to save them all at once. Google docs doesn't really need as many files at once. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log shows you all the commits. You can exit with q. You can copy and paste the ID's to use git diff to see the differences. It also shows you added and subtracted lines.
+
+How might using version control make you more confident to make changes that could break something?
+
+You can always roll back to exactly what you were doing before with version control. You are free to add/edit/delete as much as you want because you'll never lose it.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to start another Udacity course and use git hub to get experience with it. It would also be awesome to be able to set it up at work, but I'm worried this course wont' show me how to do it. 
