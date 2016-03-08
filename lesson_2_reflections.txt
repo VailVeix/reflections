@@ -5,3 +5,7 @@ It turns your directory into a .git directory. This is how git starts tracking y
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is a set of files I have chosen to be commited. The wokring directory is ALL of my files in that current dir. The repository is the entire git repo, you may be in a dir inside the repo.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You move the parts of your first commit into the staging area and send that one. Then you can move the rest and separate it for another commit.
