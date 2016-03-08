@@ -9,3 +9,7 @@ The staging area is a set of files I have chosen to be commited. The wokring dir
 How can you use the staging area to make sure you have one commit per logical change?
 
 You move the parts of your first commit into the staging area and send that one. Then you can move the rest and separate it for another commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+The language example was really good. An easy way to make two branches up and running with different languages. Then you can easily double up the changes. I also like the experimental feature becuase you can leave it for later and then merge it in when it's finished.
