@@ -21,3 +21,7 @@ It's a graphical way to show you which commits lead to the previous ones. It's a
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Combined colors AND coins :D It connects two branches back to one seemless set of code. We draw it that way to keep it organized but actually all the commits are together in a line.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git can make it easy to merge in new code without having to look at it. It doesn't effect anything and it's done automatically. Manually this way can be slow, but it's good for adding in changes made to a line by both parties.
