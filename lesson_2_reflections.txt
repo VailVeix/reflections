@@ -15,4 +15,9 @@ What are some situations when branches would be helpful in keeping your history 
 The language example was really good. An easy way to make two branches up and running with different languages. Then you can easily double up the changes. I also like the experimental feature becuase you can leave it for later and then merge it in when it's finished.
 
 How do the diagrams help you visualize the branch structure?
+
 It's a graphical way to show you which commits lead to the previous ones. It's a really easy way to see which ones are not reachable.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Combined colors AND coins :D It connects two branches back to one seemless set of code. We draw it that way to keep it organized but actually all the commits are together in a line.
